@@ -4,4 +4,4 @@ def no_c(my_string):
     for letter in my_string:
         if letter not in 'Cc':
             new_string += letter
-            return new_string
+        return new_string
