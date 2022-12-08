@@ -5,6 +5,6 @@ if __name__ == "__main__":
     i = 0
     for a in sys.argv:
         if i > 0:
-            suma += int(a)
+                suma += int(a)
             i += 1
-            print(suma)
+         print(suma)
